@@ -10,6 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "express": "4.9.8",
-    "imgr": "file:..\\imgr"
+    "imgr": "git+ssh://github.com/ericzon/imgr.git#maxsize_feature"
   }
 }
